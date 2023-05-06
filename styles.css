@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.sky{
+	background:skyblue;
+}
+.para{
+	background:black;
+	color:white;
+}
+.para3{
+	color:red;
+}
+.list #list1{
+	background:white;
+	}
+.list #list2{
+	background:gray;
+}
+.list #list3{
+	background:pink;
+}
+.list #list4{
+	background:gray;
+}
+
+.list #list5{
+	background:white;
+}
+
+
+
+
